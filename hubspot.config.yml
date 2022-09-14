@@ -1,0 +1,14 @@
+defaultPortal: PT
+portals:
+  - name: PT
+    portalId: 26246744
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CKmtjdmzMBIJAA0AAAAA4A0DGNj8wQwgnOzQFSju6QwyFHVTZeh9ywfUmmxrMB4K0Vyp39IfOjcAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgAAAAAAAAAAAAAAAAADACQhRIIasMmOtVV4t0yT897Mdq9Nrdw0oDZXUxUgBaAA
+        expiresAt: '2022-09-14T08:35:15.244Z'
+    personalAccessKey: >-
+      CiRldTEtZWUxMy05NTFkLTRjNTAtOTMxZC04N2FmYThiM2EyMjMQ2PzBDBic7NAVKhkABeaRgidLaenO0JfB1NS3OCD3b-wquUYnSgNldTE
+    sandboxAccountType: null
+    parentAccountId: null
